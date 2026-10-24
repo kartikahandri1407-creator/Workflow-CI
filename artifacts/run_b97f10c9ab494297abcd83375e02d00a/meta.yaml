@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/mlruns/0/b97f10c9ab494297abcd83375e02d00a/artifacts
+end_time: 1792801208894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b97f10c9ab494297abcd83375e02d00a
+run_name: invincible-pug-327
+run_uuid: b97f10c9ab494297abcd83375e02d00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792801201172
+status: 3
+tags: []
+user_id: runner
